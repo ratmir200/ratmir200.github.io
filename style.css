@@ -1,0 +1,28 @@
+body{
+    background-color: aqua;
+    height: 100vh;
+    .lat{
+        margin: 0px 5px 0px 50px;
+    }
+    .ima{
+        margin: 50px 50px 50px 40%;
+    }
+}
+
+h1{
+    text-align: center;
+}
+.bloc1{
+    display: flex;
+    padding: 30px;
+    justify-content: space-around;
+    img{
+        width: 250px;
+        border-radius: 284px;
+        height: 166px;
+    }
+}
+.strelka {
+    height: 50px;
+    display: flex;
+}
